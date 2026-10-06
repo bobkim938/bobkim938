@@ -1,6 +1,6 @@
 ## Hi, I'm Min Joong :wave:
 
-I work on robotic manipulation :robot:, focusing on contact-rich tasks where what matters is how and when contact changes. My current question is how learned dynamics and world models should handle contact-mode transitions - making and breaking contact, sticking and sliding - and when a smooth model needs explicit mode structure. 
+I work on robotic manipulation :robot:, focusing on contact-rich tasks where what matters is how and when contact changes. My current question is how learned dynamics and world models should handle contact-mode transitions (making and breaking contact, sticking and sliding) and when a smooth model needs explicit mode structure. 
 
 
 <!--
